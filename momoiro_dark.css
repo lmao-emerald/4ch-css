@@ -198,10 +198,8 @@
 		right: 3% !important;
 		background-color: #c59799 !important;
 		border: 2px solid #c59799 !important;
-		border-radius: 2px 2px 2px 2px !important;
 		padding: 5px 5px 5px 5px !important;
 		z-index: 1 !important;
-		box-shadow: 2px 2px 2px rgba(0,0,0,0.7) !important;
 	}
 
 	#togglePostFormLink > a
