@@ -24,6 +24,32 @@
 		padding: 0 20px 0 20px !important;
 	}
 	
+	/* Search box */
+	
+	#search-box {
+		color: #e8e6df !important;
+		background: #828181 !important;
+		border: none !important;
+		padding: 2px 4px;
+	}
+	
+	/* board */
+	
+	.board {
+		margin-top: 10px;
+	}
+	
+	/* pagelist */
+	
+	div.pagelist {
+		background:  rgba(0,0,0,0.1) !important;
+		border: none !important;
+	}
+	
+	div.pagelist, div.cataloglink {
+		border-left: none !important;
+	}
+	
 	/* Hovered replied post */
 	
 	.reply.highlight {
