@@ -1,9 +1,5 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("boards.4chan.org") {
-	*
-	{
-		font-family: 'Fantasque Sans Mono';
-	}
 
 	/* hiding */
 	.boardBanner, hr, #blotter, #thread-stats, #update-timer, .sideArrows, div.reply input, #absbot.absBotText, .bottomCtrl
