@@ -60,7 +60,7 @@
 	/* Hovered replied post */
 	
 	.reply.highlight {
-		background: rgba(0,0,0,0.2) !important;
+		background: #585858 !important;
 		border-top: 1px solid  rgba(0,0,0,0.2) !important;
 		border-right: none !important;
 		border-bottom: none !important;
@@ -69,7 +69,7 @@
 	/* replies top border */
 
 	div.reply {
-		background: rgba(255,255,255,0.04) !important;
+		background: #585858 !important;
 		border-left: none !important;
 		border-top: none !important;
 	}
