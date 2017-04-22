@@ -37,9 +37,22 @@
 	
 	/* Reply and Click Here links */
 	a.replylink:not(:hover), div#absbot a:not(:hover) {
-	color: #A7ADBA !important;
+		color: #A7ADBA !important;
 	}
 	
+	div.post div.postInfo span.postNum a:hover, .posteruid .hand:hover {
+		color: #F7F7F7 !important;
+	}
+	
+	/* Main Post Replies link. Example: */
+	.burichan_new .backlink a, .yotsuba_b_new .backlink a {
+		color: #A7ADBA !important;
+	}
+	
+	.burichan_new .backlink a:hover, .yotsuba_b_new .backlink a:hover {
+		color: #F7F7F7 !important;
+	}
+
 	/* index, catalog, bottom links */
 	.navLinks,
 	.navLinks.desktop
