@@ -36,6 +36,7 @@
 	}
 
 	/* index, catalog, bottom links */
+	a.replylink:not(:hover), div#absbot a:not(:hover),
 	.navLinks,
 	.navLinks.desktop
 	{
