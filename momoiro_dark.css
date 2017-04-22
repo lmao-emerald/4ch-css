@@ -24,7 +24,25 @@
 		padding: 0 20px 0 20px !important;
 	}
 	
+	/* Hovered replied post */
+	
+	.reply.highlight {
+		background: rgba(0,0,0,0.2) !important;
+		border-top: 1px solid  rgba(0,0,0,0.2) !important;
+		border-right: none !important;
+		border-bottom: none !important;
+	}
+	
+	/* replies top border */
+
+	div.reply {
+		background: rgba(255,255,255,0.04) !important;
+		border-left: none !important;
+		border-top: none !important;
+	}
+	
 	/* X replies and X images ommited text */
+	
 	span.summary {
 		color: #e8e6df;
 	}
