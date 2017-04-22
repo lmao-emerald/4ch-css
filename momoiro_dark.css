@@ -34,9 +34,13 @@
 	{
 		padding: 10px 3px 10px 3px !important;
 	}
-
+	
+	/* Reply and Click Here links */
+	a.replylink:not(:hover), div#absbot a:not(:hover) {
+	color: #A7ADBA !important;
+	}
+	
 	/* index, catalog, bottom links */
-	a.replylink:not(:hover), div#absbot a:not(:hover),
 	.navLinks,
 	.navLinks.desktop
 	{
