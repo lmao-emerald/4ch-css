@@ -1,6 +1,6 @@
 # 4ch-css
 
-![preview](https://raw.githubusercontent.com/jastronaut/4ch-css/master/previews/momoiro_dark.png)
+![preview](https://raw.githubusercontent.com/lmao-emerald/4ch-css/master/preview.png)
 
 this is a modified version of jastronaut's 4chan css
 
