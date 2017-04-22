@@ -39,6 +39,13 @@
 		margin-top: 10px;
 	}
 	
+	
+	/* Comment too long text */
+	.omittedposts, .abbr {
+		color: #f7f7f7 !important;
+		font-size: 11px;
+	}
+	
 	/* pagelist */
 	
 	div.pagelist {
